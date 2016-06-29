@@ -1,0 +1,24 @@
+{
+  "name": "Station Joey",
+  "version": "1.0.0",
+  "description": "Een applicatie gemaakt om makkelijk NS stations te vinden.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerendWeij/md_sct_3_2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "angular",
+    "md2"
+  ],
+  "author": "Abdelkarim Ouzzine",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-animate": "^1.5.6"
+  }
+}
